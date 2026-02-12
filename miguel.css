@@ -1,0 +1,29 @@
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+}
+
+/* Estilo para un título principal */
+h1 {
+    color: #333;
+    font-size: 36px;
+    text-align: center;
+}
+
+/* Estilo para un párrafo */
+p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* Estilo para un botón */
+.boton {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
